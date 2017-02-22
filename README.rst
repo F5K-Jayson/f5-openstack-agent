@@ -21,7 +21,7 @@ f5-openstack-agent
 
 |Build Status| |slack badge| |coveralls badge|
 
-Introduction
+Introduction - by F5K-Jayson
 ************
 
 The F5® agent translates from 'OpenStack' to 'F5®'. It uses the `f5-sdk <http://f5-sdk.readthedocs.io>`_ to translate OpenStack messaging calls -- such as those from the Neutron RPC messaging queue -- into iControl® REST calls to F5® technologies, such as BIG-IP®.
